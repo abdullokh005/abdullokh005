@@ -54,6 +54,9 @@
   <a href="tel:+15202832596" target="_blank">
     <img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://t.me/abdulloh1159" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
