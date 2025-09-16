@@ -43,6 +43,12 @@
 
 ---
 
+## 🚀 Projects  
+- 👗 [**E-Commerce Fashion Store**](https://abdulloh2005.com/) – Online fashion store built as a portfolio project  
+- 📚 [**Personal Library Website**](https://abdulloh123.pythonanywhere.com) –Focused on simplicity, easy navigation. Developed for personal usage.   
+
+---
+
 ## 📫 Connect with Me  
 <p align="left">
   <a href="mailto:abdulloh.saidov20005@gmail.com" target="_blank">
@@ -56,6 +62,9 @@
   </a>
   <a href="https://t.me/abdulloh1159" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullox-saidov-a7b90b36a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
